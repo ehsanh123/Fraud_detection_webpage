@@ -1,17 +1,4 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-Fraud Detection Webpage
-
-The Fraud Detection Webpage is an advanced web application designed to showcase an AI-powered fraud detection system. Initially developed as a module project, the system uses machine learning algorithms to analyze transaction data and identify fraudulent activities. This web platform aims to provide businesses and financial institutions with an easy-to-use interface for monitoring and flagging potentially fraudulent transactions.
-
-Key features include:
-
-Real-Time Fraud Detection: The webpage uses a trained machine learning model to analyze transaction data in real-time, identifying suspicious patterns and flagging potentially fraudulent transactions.
-User-Friendly Interface: The application is designed with a clean and intuitive UI that allows users to interact with the model, input transaction details, and view results with ease.
-Detailed Analytics and Reports: The system provides detailed insights into flagged transactions, with options for further analysis and reporting.
-Interactive Dashboard: Users can monitor transaction trends and fraud detection performance, making it easy to track detection accuracy and fraud rates.
-Secure and Scalable: Built with industry-standard security measures, the platform ensures that sensitive financial data is handled with the utmost care and privacy.
-The webpage transforms the core functionality of the original model into an accessible web application, making it suitable for various real-world applications, from banking systems to e-commerce platforms.
-
 
 ## Getting Started
 
