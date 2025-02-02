@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import sys
 import json
 import model_s
@@ -51,3 +52,18 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+# script.py
+import sys
+import json
+
+
+def main():
+    # Example: Print a simple message or process some input
+    response = {"message": "Hello from Python!"}
+
+    print(json.dumps(response))
+
+if __name__ == "__main__":
+    main()
+>>>>>>> 0209a41b3f2755e7f7b441203ce12f1759f23ec6

@@ -1,0 +1,34 @@
+
+\begin{thebibliography}{99}
+
+\bibitem{patil2023harnessing} Patil, A., Sharma, M., \& Khadse, A. (2023). Harnessing the power of AI in pharmacokinetics and pharmacodynamics: A comprehensive review. Preprint. ResearchGate. https://www.researchgate.net/publication/371969609.
+
+\bibitem{compartment2020} Mohan, R., Gupta, A., Sharma, R., Prakash, N. (2020). Dental radiographs. In J. Singh (Ed.), Oral radiology: Principles and interpretation (pp. 683–695). Springer. https://doi.org/10.1007/978-3-030-51519-5-58-1.
+
+\bibitem{firstorder2023} ScienceDirect. (n.d.). First-order elimination. Retrieved December 18, 2024, from https://www.sciencedirect.com/topics/chemistry/first-order-elimination:~:text='First-Order-Elimination.
+
+\bibitem{snps2022} Zhou, X., Zhang, Y., Wang, H., Xue, L., \& Yang, Y. (2022). Potential therapeutic targets in pharmacology: A review of current insights. Frontiers in Pharmacology, 13, Article 820927. https://doi.org/10.3389/fphar.2022.820927.
+
+\bibitem{anderson2002sex} Huo, T., Barletta, M., Papini, A. M., Nelson, S. D., \& Buhler, D. R. (2003). Identification of new targets for the diagnosis and treatment of disease. PubMed, 104(2), 197–207. https://pubmed.ncbi.nlm.nih.gov/12537512/
+
+\bibitem{soldin2001sex} Miyazawa, T., Nakagawa, K., Kondo, N., \& Imanishi, N. (2002). Therapeutic potential of antioxidant properties in cardiovascular diseases. PubMed, 97(6), 1117–1124. https://pubmed.ncbi.nlm.nih.gov/12036391/.
+
+\bibitem{williams1998renal} Keenan, K. P., Ballam, G. C., Soper, K. A., Laroque, P., Coleman, J. B., \& Dixit, R. (1997). Diet, caloric restriction, and the incidence of neoplasia in rats: Implications for cancer prevention. Toxicological Sciences, 37(1), 96–108. https://pubmed.ncbi.nlm.nih.gov/9423140/.
+
+\bibitem{hooker2005nonmemory} Yang, Y., Yang, M., Lai, B., Wang, D., Li, C., \& Liu, Y. (2021). Exploring molecular mechanisms in cellular response: Advances in iScience research. iScience, 24(9), Article 102982. https://doi.org/10.1016/j.isci.2021.102982.
+
+\bibitem{sheiner1992covariates} Soni, R., Soni, S., \& Singh, R. (2021). Advances in drug discovery and molecular therapeutics. Medicinal Research Reviews, 41(5), 2442–2478. https://doi.org/10.1002/med.21764.
+
+\bibitem{chen2021ai} López-Cortés, L. E., González-Bonilla, C. R., \& Ochoa-Solano, L. A. (2024). Antimicrobial resistance mechanisms in Enterobacteriaceae. Microorganisms, 13(9), 853. https://doi.org/10.3390/microorganisms13090853.
+
+\bibitem{med21764} Ghosh, S., \& Saha, S. (2023). Recent advancements in the synthesis of bioactive compounds for pharmaceutical applications. Environmental Toxicology and Pharmacology, 90, 103988. https://doi.org/10.1016/j.etap.2023.103988.
+
+\bibitem{antibiotics2023} Díaz, A., \& Rojas, S. (2007). NONMEMory: A run management tool for NONMEM. ResearchGate. https://doi.org/10.13140/2.1.3175.1045.
+
+\bibitem{miller2023pk} Gundersen, T. E., \& Ingebrigtsen, T. (1991). A new approach to the use of cross-sectional data in estimating exposure-response relationships. Environmental Toxicology and Pharmacology, 8(4), 227-233. https://doi.org/10.1007/BF01060893.
+
+\bibitem{ai_pbpk2024} Schroeder, P., \& Dreher, J. (2023). Mechanisms of environmental toxicology and implications for public health. Toxicological Sciences, 191(1), 1-9. https://doi.org/10.1093/toxsci/kfad078.
+
+\bibitem{toxsci2022} Chen, X., Liu, Y., \& Li, Z. (2024). The role of novel pharmacological agents in managing drug resistance. Frontiers in Pharmacology, 15, Article 1330855. https://doi.org/10.3389/fphar.2024.1330855.
+
+\end{thebibliography}
